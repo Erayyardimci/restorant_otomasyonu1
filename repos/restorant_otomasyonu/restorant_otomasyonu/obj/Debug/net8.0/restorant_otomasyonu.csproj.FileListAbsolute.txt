@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\restorant_otomasyonu\restorant_otomasyonu\bin\Debug\net8.0\restorant_otomasyonu.exe
+C:\Users\PC\source\repos\restorant_otomasyonu\restorant_otomasyonu\bin\Debug\net8.0\restorant_otomasyonu.deps.json
+C:\Users\PC\source\repos\restorant_otomasyonu\restorant_otomasyonu\bin\Debug\net8.0\restorant_otomasyonu.runtimeconfig.json
+C:\Users\PC\source\repos\restorant_otomasyonu\restorant_otomasyonu\bin\Debug\net8.0\restorant_otomasyonu.dll
+C:\Users\PC\source\repos\restorant_otomasyonu\restorant_otomasyonu\bin\Debug\net8.0\restorant_otomasyonu.pdb
+C:\Users\PC\source\repos\restorant_otomasyonu\restorant_otomasyonu\obj\Debug\net8.0\restorant_otomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\restorant_otomasyonu\restorant_otomasyonu\obj\Debug\net8.0\restorant_otomasyonu.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\restorant_otomasyonu\restorant_otomasyonu\obj\Debug\net8.0\restorant_otomasyonu.AssemblyInfo.cs
+C:\Users\PC\source\repos\restorant_otomasyonu\restorant_otomasyonu\obj\Debug\net8.0\restorant_otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\restorant_otomasyonu\restorant_otomasyonu\obj\Debug\net8.0\restorant_otomasyonu.dll
+C:\Users\PC\source\repos\restorant_otomasyonu\restorant_otomasyonu\obj\Debug\net8.0\refint\restorant_otomasyonu.dll
+C:\Users\PC\source\repos\restorant_otomasyonu\restorant_otomasyonu\obj\Debug\net8.0\restorant_otomasyonu.pdb
+C:\Users\PC\source\repos\restorant_otomasyonu\restorant_otomasyonu\obj\Debug\net8.0\restorant_otomasyonu.genruntimeconfig.cache
+C:\Users\PC\source\repos\restorant_otomasyonu\restorant_otomasyonu\obj\Debug\net8.0\ref\restorant_otomasyonu.dll
